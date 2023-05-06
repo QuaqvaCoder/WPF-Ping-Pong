@@ -1,0 +1,98 @@
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\bin\Debug\net5.0-windows\PingPong.exe
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\bin\Debug\net5.0-windows\PingPong.deps.json
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\bin\Debug\net5.0-windows\PingPong.runtimeconfig.json
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\bin\Debug\net5.0-windows\PingPong.runtimeconfig.dev.json
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\bin\Debug\net5.0-windows\PingPong.dll
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\bin\Debug\net5.0-windows\ref\PingPong.dll
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\bin\Debug\net5.0-windows\PingPong.pdb
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.csproj.AssemblyReference.cache
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong_MarkupCompile.cache
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong_MarkupCompile.lref
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.g.resources
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.dll
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\ref\PingPong.dll
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.pdb
+C:\Users\sanek\OneDrive\Документы\Университет\2 семак\ОП\PingPong\obj\Debug\net5.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.csproj.AssemblyReference.cache
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong_MarkupCompile.cache
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong_MarkupCompile.lref
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.g.resources
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\ref\PingPong.dll
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.pdb
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\bin\Debug\net5.0-windows\PingPong.exe
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\bin\Debug\net5.0-windows\PingPong.deps.json
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\bin\Debug\net5.0-windows\PingPong.runtimeconfig.json
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\bin\Debug\net5.0-windows\PingPong.runtimeconfig.dev.json
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\bin\Debug\net5.0-windows\PingPong.dll
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\bin\Debug\net5.0-windows\ref\PingPong.dll
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\bin\Debug\net5.0-windows\PingPong.pdb
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.dll
+C:\Users\sanek\Documents\Университет\2 семак\PingPong\obj\Debug\net5.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.exe
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.deps.json
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.runtimeconfig.json
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.runtimeconfig.dev.json
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.dll
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\ref\PingPong.dll
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.pdb
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong_MarkupCompile.cache
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong_MarkupCompile.lref
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.g.resources
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.dll
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\ref\PingPong.dll
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.pdb
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.exe
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.deps.json
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.runtimeconfig.json
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.runtimeconfig.dev.json
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.dll
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\ref\PingPong.dll
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\PingPong.pdb
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong_MarkupCompile.cache
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong_MarkupCompile.lref
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.g.resources
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.dll
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\ref\PingPong.dll
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.pdb
+C:\Users\Санчо\Source\Repos\QuaqvaCoder\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\images\Lose.gif
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\WpfAnimatedGif.dll
+C:\Users\sanek\Source\Repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\obj\Debug\net5.0-windows\PingPong.csproj.AssemblyReference.cache
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\MenuOpen.mp3
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\BtnInFocus.wav
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\Click.wav
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\TimerCur.wav
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\TimerEnd.wav
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\Lose.mp3
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\MenuClose.mp3
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\Reflect.mp3
+C:\Users\sanek\source\repos\QuaqvaRepos\PingPong\bin\Debug\net5.0-windows\Sounds\Win.mp3

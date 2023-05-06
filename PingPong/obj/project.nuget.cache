@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZA7v87EDXS46PCurU4+Irx5eP+kAmYi0ykRwtMHzjNhk+ABHZfSQav5KlTyuLFhR2eGb2G54YGlHj2ExMJO0yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanek\\Source\\Repos\\QuaqvaRepos\\PingPong\\PingPong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanek\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

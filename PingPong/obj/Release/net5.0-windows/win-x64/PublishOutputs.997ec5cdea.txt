@@ -1,0 +1,11 @@
+C:\Users\sanek\Desktop\PingPong\PingPong.pdb
+C:\Users\sanek\Desktop\PingPong\images\Lose.gif
+C:\Users\sanek\Desktop\PingPong\Sounds\Click.wav
+C:\Users\sanek\Desktop\PingPong\Sounds\TimerCur.wav
+C:\Users\sanek\Desktop\PingPong\Sounds\TimerEnd.wav
+C:\Users\sanek\Desktop\PingPong\Sounds\Lose.mp3
+C:\Users\sanek\Desktop\PingPong\Sounds\MenuClose.mp3
+C:\Users\sanek\Desktop\PingPong\Sounds\MenuOpen.mp3
+C:\Users\sanek\Desktop\PingPong\Sounds\Reflect.mp3
+C:\Users\sanek\Desktop\PingPong\Sounds\Win.mp3
+C:\Users\sanek\Desktop\PingPong\PingPong.exe
