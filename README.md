@@ -1,5 +1,5 @@
 # WPF-Ping-Pong
-A small Pong game that I created for my **C#** university course.
+A small Pong game that I created for my **C#** university course in May 2022.
 Technologies used:
 - Built on WPF platform
 - Using async constructions
